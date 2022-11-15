@@ -1,0 +1,21 @@
+Custom vim keybindings:
+  Insert mode:
+    jj to escape insert mode
+    Ctrl V to paste
+    Tab + Shift tab to ident
+  Normal mode:
+    Tab + Shift tab to ident
+    Ctrl + h,j,k,l to swap splits if you have splits
+    Ctrl + arrowkeys to increase current split size
+  Visual mode:
+    Tab + Shift tab to ident
+
+LSP:
+  Normal mode:
+    gd to go to definition
+    gD to go to declaration (header files in cpp)
+    gr to go to all references
+    gi to go to implementation
+    K to hover
+    
+
